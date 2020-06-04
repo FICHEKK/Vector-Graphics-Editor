@@ -17,11 +17,11 @@ Currently supported operations:
 * Reshaping selected objects
 * Grouping objects into an object hierarchy
 * Ungrouping objects from hierarchy
-* Hand drawn curve eraser tool!
+* Hand drawn curve eraser tool
 
 ## File formats, saving, loading & exporting
-* Export drawn image to SVG format!
-* Save and load drawing in a native format!
+* Export drawn image to SVG format
+* Save and load drawing in a native format
 
 ## Native format specification
 Each graphical object is defined by a single row in a text file.
